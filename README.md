@@ -1,3 +1,1 @@
-# Foundations
-
-The Odin Project Foundations portion projects.
+Recipe project from The Odin Project Foundations
